@@ -5,7 +5,7 @@ Arduino Mind Controlled Robot
 
 
 ![Pic](https://scontent-b-mxp.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10462702_718080694899666_6401919628794589582_n.jpg)
-
+![Pic2](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/64677_718081408232928_1064091360871514426_n.jpg)
 
 Bill of materials
 -----------------
